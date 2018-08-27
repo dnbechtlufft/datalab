@@ -1,3 +1,5 @@
+                                  A Few Useful Things to Know about Machine Learning
+
 The author begins the article by explaining the concepts of representation, evaluation, and optimization, however when examples are used, containing combinations of each of these concepts, the explanation gets confusing. The use of Barebone Decision-Tree algorithm as an illustration without a specific explanation might scare the beginners, but may also spark some curiosity to accomplish a deeper understanding of it.
 
 Another text's failure is the section about theoretical. There's not enough explanation for the equations used, and unfortunately, the entire paragraph is based on these. As a result, this section affords to explain easily only one easy concept, that's not always we can trust in theoretics. 
